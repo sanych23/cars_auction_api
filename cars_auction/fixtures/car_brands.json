@@ -1,0 +1,29 @@
+[
+{
+    "model": "magazine.carbrand",
+    "pk": 1,
+    "fields": {
+        "name": "BMW",
+        "logo": null,
+        "description": "Bayerish Motoren Werke, civilian sport car."
+    }
+},
+{
+    "model": "magazine.carbrand",
+    "pk": 2,
+    "fields": {
+        "name": "MERCEDES",
+        "logo": null,
+        "description": "Comfortable bayerish auto."
+    }
+},
+{
+    "model": "magazine.carbrand",
+    "pk": 3,
+    "fields": {
+        "name": "AUDI",
+        "logo": null,
+        "description": "Very reliable auto."
+    }
+}
+]
